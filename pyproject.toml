@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "pyluhny"
+version = "1.0.0"
+description = "My implementation of the Luhn algorithm in Python."
+authors = ["angeldollface"]
+readme = "README.markdown"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
