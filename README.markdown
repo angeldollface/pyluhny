@@ -12,8 +12,6 @@ This is my Python implementation of a package I wrote in ECMA Script and Rust a 
 
 - Library implementation in ECMA Script: [VIEW](https://github.com/angeldollface/luhny)
 - Library implementation in Rust: [VIEW](https://github.com/angeldollface/luhny.rs)
-- Web app implementation in Vue.js: [VIEW](https://github.com/angeldollface/ceramic)
-- Web app implementation in Yew.rs: [VIEW](https://github.com/angeldollface/ceramic.rs)
 
 ## USAGE :hammer:
 
